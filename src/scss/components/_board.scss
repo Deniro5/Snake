@@ -1,0 +1,21 @@
+.boardContainer {
+  border:2px solid grey;
+  width:300px;
+  height:300px;
+  margin:auto;
+  background: black;
+  position: relative;
+}
+
+.point {
+  width:10px;
+  height:10px;
+  position: absolute;
+}
+
+.snake {
+  width:8px;
+  height:8px;
+  border: 1px solid black;
+  position: absolute;
+}
